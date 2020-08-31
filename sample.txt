@@ -1,2 +1,2 @@
-THIS IS V1 from local repo
+THIS IS V1 from remote repo
 This is from remote repo
