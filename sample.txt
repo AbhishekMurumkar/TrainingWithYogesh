@@ -1,6 +1,1 @@
-THIS IS V1 from remote repo
-This is from remote repo
-well this line is added from local repo and other branch
-This is added from the remote repo and training1 branch
-This is added from the remote repo and training1 branch1
-This is added from the remote repo and training1 branch2
+THIS IS from local repo
