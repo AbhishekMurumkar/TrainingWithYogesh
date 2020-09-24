@@ -1,7 +1,6 @@
 THIS IS V1 from Local from cloned repo
 THIS IS V1 - Merged File from Local from cloned repo
 this is some random change
-=======
 THIS IS V1 from remote repo
 This is from remote repo
 well this line is added from local repo and other branch
