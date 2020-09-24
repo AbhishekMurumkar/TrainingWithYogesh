@@ -1,6 +1,6 @@
 THIS IS V1 from Local from cloned repo
 THIS IS V1 - Merged File from Local from cloned repo
-This is from remote repo
+This is from remote repo in github
 well this line is added from local repo and other branch
 This is added from the remote repo and training1 branch
 This is added from the remote repo and training1 branch1
