@@ -1,5 +1,3 @@
-
-Hello world
 THIS IS V1 from Local from cloned repo
 THIS IS V1 - Merged File from Local from cloned repo
 This is from remote repo in github
