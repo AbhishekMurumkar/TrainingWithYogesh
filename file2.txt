@@ -1,1 +1,2 @@
 Some text content placed in file1.txt 
+Today's update
